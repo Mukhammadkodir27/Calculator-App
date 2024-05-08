@@ -38,6 +38,6 @@ Open a pull request.
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # Contact
-If you have any questions or suggestions, please reach out to me at mukhammadkodirabdusalomov27.com.
+If you have any questions or suggestions, please reach out to me at mukhammadkodirabdusalomov27@gmail.com.
 
 Project Link: https://github.com/mukhammadkodir27/Calculator-App

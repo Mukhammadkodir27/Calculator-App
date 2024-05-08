@@ -12,7 +12,7 @@ Clone the repo and run the application with Python to start calculating right aw
 
 bash
 Copy code
-git clone https://github.com/yourusername/python-tkinter-calculator.git
+git clone https://github.com/mukhammadkodir27/Calculator-App.git
 cd python-tkinter-calculator
 python calculator.py
 Contributions:
